@@ -1,0 +1,7 @@
+"name" : "afham",
+    "pass": "kaka786",
+    "city": "islamabad",
+    "email" : "mafham678@gmail.com",
+    "phoneNo" : "+923448680810",
+    "country": "pakistan",
+    "role": "ADMIN"
